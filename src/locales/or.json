@@ -1,0 +1,17 @@
+{
+  "dashboard_title": "ମାଇକ୍ରୋଗ୍ରିଡ୍ ଡ୍ୟାସବୋର୍ଡ",
+  "dashboard_subtitle": "ଓଡିଶା ନବୀକରଣ ଯୋଗ୍ୟ ମାଇକ୍ରୋଗ୍ରିଡ୍ ପାଇଁ ଆପଣଙ୍କ ଲାଇଭ୍ ଡାଟା ପୋର୍ଟାଲ୍।",
+  "power_trend": "ଶକ୍ତି ପ୍ରବୃତ୍ତି (ୱାଟ୍)",
+  "metrics": {
+    "input_voltage": "ଇନପୁଟ୍ ଭୋଲଟେଜ୍",
+    "input_current": "ଇନପୁଟ୍ କରେଣ୍ଟ୍",
+    "output_voltage": "ଆଉଟପୁଟ୍ ଭୋଲଟେଜ୍",
+    "output_current": "ଆଉଟପୁଟ୍ କରେଣ୍ଟ୍",
+    "soc": "Battery SOC",
+    "soh": "Battery SOH",
+    "temperature": "ତାପମାତ୍ରା",
+    "irradiance": "ଇରାଡିଆନ୍ସ",
+    "panel_temp": "ପ୍ୟାନେଲ୍ ତାପମାତ୍ରା"
+  },
+  "footer": "MQTT ଦ୍ୱାରା ପରିଚାଳିତ ରିଅଲ୍-ଟାଇମ୍ ଡାଟା। ଉତ୍ସାହ ଏବଂ ସଠିକତା ସହିତ ଡିଜାଇନ୍ ହୋଇଛି।"
+}

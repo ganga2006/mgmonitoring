@@ -1,0 +1,17 @@
+{
+  "dashboard_title": "Microgrid Monitoring Dashboard",
+  "dashboard_subtitle": "Your live-data portal for the Odisha Renewable Microgrid.",
+  "power_trend": "Power Trend (W)",
+  "metrics": {
+    "input_voltage": "Input Voltage",
+    "input_current": "Input Current",
+    "output_voltage": "Output Voltage",
+    "output_current": "Output Current",
+    "soc": "Battery SOC",
+    "soh": "Battery SOH",
+    "temperature": "Battery Temperature",
+    "irradiance": "Irradiance",
+    "panel_temp": "Panel Temp"
+  },
+  "footer": "Real-time data powered by MQTT."
+}

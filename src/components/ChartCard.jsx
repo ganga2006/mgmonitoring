@@ -53,14 +53,14 @@ function ChartCard() {
                 <stop offset="100%" stopColor="#00F0FF" stopOpacity={1}/>
               </linearGradient>
             </defs>
-            <XAxis dataKey="time" stroke="#A3E6FF" opacity={0.7} />
-            <YAxis stroke="#A3E6FF" opacity={0.7} domain={[0, 100]} />
+            <XAxis dataKey="time" stroke="black" opacity={0.7} />
+            <YAxis stroke="black" opacity={0.7} domain={[0, 100]} />
             <Tooltip
               contentStyle={{
                 backgroundColor: 'rgba(255, 255, 255, 0.1)',
                 border: '1px solid rgba(255, 255, 255, 0.2)',
                 borderRadius: '12px',
-                color: '#fff',
+                color: 'black',
                 backdropFilter: 'blur(5px)'
               }}
               itemStyle={{ color: '#00C49F' }}
